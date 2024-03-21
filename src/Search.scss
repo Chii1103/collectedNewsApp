@@ -1,0 +1,19 @@
+.searchWrap{
+  text-align: center;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .5rem;
+}
+input{
+  width: 300px;
+  height: 50px;
+  // border-radius: 11%;
+  border: none;
+}
+
+.searchButton{
+  width: 30px;
+  height: 30px;
+}

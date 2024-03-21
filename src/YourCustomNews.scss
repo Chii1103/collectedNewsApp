@@ -1,0 +1,39 @@
+.yourCustomNewsWrap{
+  width: 66%;
+  height: auto;
+  margin: 0 auto;
+  background-color: #FFF1E4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 3rem;
+  border-radius: 9%;
+  margin-bottom: 2rem;
+}
+
+
+img{
+  width: 330px;
+  height: 260px;
+  object-fit: contain;
+}
+
+.articleWrap{
+background-color: rgb(139, 211, 255);
+  width: 400px;
+  height: 390px;
+text-align: center;
+border-radius: 6%;
+}
+
+.toArticleBtn{
+  width: 50%;
+}
+.mediaName{
+ font-family:var( --media-font-family);
+ font-size: var(--mediaName-font-size);
+ font-weight: bold;
+ margin-top: 2rem;
+}
